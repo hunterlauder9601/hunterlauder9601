@@ -1,6 +1,6 @@
-# Hunter Lauder
+# Hi, I'm Hunter Lauder
 ## 🌟 About Me
-Hello! I'm Hunter, a B.S. Computer Science graduate from the University of Binghamton and a passionate full-stack developer with a focus on JavaScript/TypeScript and Java. Alongside my specialization in web development, I'm currently expanding my expertise in Data Engineering, actively pursuing an IBM Data Engineering Certification. I'm also looking forward to obtaining the AWS Certified Solutions Architect – Associate Certification, furthering my skills in cloud solutions and architecture.
+I am a B.S. Computer Science graduate from the University of Binghamton and a passionate full-stack developer with a focus on JavaScript/TypeScript and Java. Alongside my specialization in web development, I'm currently expanding my expertise in Data Engineering, actively pursuing an IBM Data Engineering Certification. I'm also looking forward to obtaining the AWS Certified Solutions Architect – Associate Certification, furthering my skills in cloud solutions and architecture.
 
 ## 📚 Continuing Education
 * **Currently Pursuing**: IBM Data Engineering Certification
