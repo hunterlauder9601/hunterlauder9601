@@ -3,7 +3,7 @@
 I am a B.S. Computer Science graduate, cum laude, from the University of Binghamton and a passionate full-stack developer with a focus on JavaScript/TypeScript and Java. Alongside my specialization in web development, I'm currently expanding my expertise in Data Engineering, actively pursuing an IBM Data Engineering Professional Certificate. I'm also looking forward to obtaining the AWS Certified Solutions Architect – Associate Certification, furthering my skills in cloud solutions and architecture.
 
 ## 📚 Continuing Education
-* **Currently Pursuing**: IBM Data Engineering Certification
+* **Currently Pursuing**: IBM Data Engineering Professional Certificate
 * **Future Goal**: AWS Certified Solutions Architect – Associate Certification
 
 ## 📫 Connect With Me!
